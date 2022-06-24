@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+ul,li,h1,h2,h3,p{ padding:0; margin:0; list-style:none}
+img{ max-width:100%}
+html{ background:url(../images/timg.jpg) }
+body{ width:1000px; margin:20px auto; border:#5d483d solid 1px; line-height:21px}
+.clear{ clear:both}
+.menu li{ list-style:none}
+.logo{ position:absolute; top:50px; width:250px; height:100px; margin-left:40px}
+.banner{ position:relative;}
+
+.menu{ width:100%; text-align:center; float:left; background:#333}
+.menu li a{ color:#fff}.menu li { float:left; padding:15px 30px ; width:140px}
+
+.right{ float:right; width:660px; padding:20px}
+.left{ min-height:300px; float:left; width:430px; padding:10px}
+.content { padding-bottom:20px; background:#f4f3f1; font-size:16px; line-height:26px; display:inline-block ; color:#000; width:100%}
+
+.end{ clear:both; background:#333; color:#fff; padding:30px 0; text-align:center;}
+.produce img{  margin:0 20px 20px 0}
+.produce { line-height:30px}
+.pad{ padding:20px; display:block}
+.pics p{ margin:1px; text-align:center}
+
+.imglist{ width:840px; margin:0 auto}
+.imglist li{ float:left; width:400px; margin:10px ; text-align:center}
+.scrollleft{ margin:0 30px}.scrollleft li{ float:left}
+.news li{ padding:5px;}
+
+.title{ text-align:center; color:#F00; padding:10px}
+.fl{ float:left}
+.js  div{ width:100%; clear:both; margin-bottom:20px; float:left}
+
+.js div img{ float:left; margin-right:20px} 
+.msg>div{ padding:10px}
+
+.bar{ border-bottom:#000 solid 1px; margin:20px; clear:both; font-weight:bold; padding:15px}
